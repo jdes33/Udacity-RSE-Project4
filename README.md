@@ -1,8 +1,8 @@
 # Udacity-RSE-Project4
 
-## This is my work for the 'Map My World' project
-## The project involved using ROS to perform RTAB mapping (real time appearance based mapping)
-## Note: I made a new building and modified the robot (from previous projects) for better performance
+### This is my work for the 'Map My World' project
+### The project involved using ROS to perform RTAB mapping (real time appearance based mapping)
+### Note: I made a new building and modified the robot (from previous projects) for better performance
 
 This is the world I wanted to map:
 
