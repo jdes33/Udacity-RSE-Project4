@@ -2,6 +2,7 @@
 
 ### This is my work for the 'Map My World' project
 ### The project involved using ROS to perform RTAB mapping (real time appearance based mapping)
+### You can get the rtabmap.db file that was generated from here: https://drive.google.com/drive/folders/1nXQ_-FmqTCpinhXp2Y8sM3CdfBqod_G9?usp=sharing
 ### Note: I made a new building and modified the robot (from previous projects) for better performance
 
 This is the world I wanted to map:
